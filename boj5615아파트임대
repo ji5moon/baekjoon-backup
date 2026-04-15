@@ -1,4 +1,4 @@
-//BOJ 5615 아파트 임대
+//BOJ 5615 아파트 임대 (밀러라빈)
 #include <iostream>
 using namespace std;
 int ar[4] = {2,3, 5, 7};
